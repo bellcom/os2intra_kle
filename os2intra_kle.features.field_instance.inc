@@ -27,7 +27,7 @@ function os2intra_kle_field_default_field_instances() {
         'label' => 'above',
         'settings' => array(),
         'type' => 'hidden',
-        'weight' => 6,
+        'weight' => 8,
       ),
     ),
     'display_in_partial_form' => 0,
